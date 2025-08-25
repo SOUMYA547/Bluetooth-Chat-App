@@ -1,0 +1,1 @@
+using System.Windows; namespace BluetoothChatApp.Views { public partial class ChatWindow : Window { public ChatWindow(){ InitializeComponent(); } } }
