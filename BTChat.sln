@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTChat", "BTChat.csproj", "{A134C0BA-7451-48F3-9BEE-4D47F2634D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A134C0BA-7451-48F3-9BEE-4D47F2634D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A134C0BA-7451-48F3-9BEE-4D47F2634D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A134C0BA-7451-48F3-9BEE-4D47F2634D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A134C0BA-7451-48F3-9BEE-4D47F2634D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18C132B4-FA53-408F-8A61-A0E88D88C8AA}
+	EndGlobalSection
+EndGlobal
